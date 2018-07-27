@@ -25,7 +25,7 @@ def get_employee_information():
   employee['employeeEmail'] = input("Email: ")
   employee['employeeSalary'] = int(input("salary: "))
   return employee
-  
+
 def print_all_employees_information(all_employees):
   print(" ")
   for employee in all_employees:
@@ -38,21 +38,21 @@ def print_basic_info(emp):
   However if the hash is not in the right order for what ever reason we'll get bogus output.
   Receives a hash of an employee and prints out their information.
   '''
-  print(emp['employeeName'] + "," + 
-        emp['employeeSSN_last4'] + "," + 
-        emp['employeePhone'] + "," + 
-        emp['employeeEmail'] + ",$" + 
-        str(emp['employeeSalary'])
-        )
+  print(emp['employeeName'] + "," +
+    emp['employeeSSN_last4'] + "," +
+    emp['employeePhone'] + "," +
+    emp['employeeEmail'] + ",$" +
+    str(emp['employeeSalary'])
+  )
 
-  
+
 # Variables
 all_employees = []
 choice = "0"
 
 while choice != "3":
   choice = prompt_user(all_employees)
-  if choice == '1': 
+  if choice == '1':
     all_employees.append(get_employee_information())
   else:
     print_all_employees_information(all_employees)
