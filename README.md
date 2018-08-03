@@ -1,7 +1,7 @@
 <h1>Background and Justification</h1>
 This repository is a collection of my solutions to the Ashford University Computer Software Technology curriculum.  As I complete work I will keep this repository updated.
-I'm currently a full time developer with many years of experience, therefore, some of my solutions to earlier assigments may utilize constructs other students may not know of.
-I've tried to address the assignments as clearly as possible and utilize clean coding practices.
+I'm currently a full time developer with many years of experience, therefore, some of my solutions to earlier assigments may utilize constructs other students may not know of, ex: functions in the early assignements to keep code clean.
+I've tried to address the assignments as clearly as possible and utilize clean coding practices and constructs covered in the chapters.
 
 <h2>CPT 200</h2>
 CPT 200 is the introduction to programmin in Python.  It covers:
