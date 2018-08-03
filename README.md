@@ -6,16 +6,16 @@ I've tried to address the assignments as clearly as possible and utilize clean c
 <h2>CPT 200</h2>
 CPT 200 is the introduction to programmin in Python.  It covers:
 
-* Chapter 1
-* Chapter 1
-* Chapter 1
-* Chapter 1
-* Chapter 1
-* Chapter 1
-* Chapter 1
-* Chapter 1
-* Exception Handling
-* File I/O
+* Chapter 1 - Introduction to Python
+* Chapter 2 - Variables and Expressions
+* Chapter 3 - Types
+* Chapter 4 - Branching (if / then / else / elif statements)
+* Chapter 1 - Loops (for and while loops)
+* Chapter 6 - Functions (this chapter does a poor job of explaining scope! The MIT lecture below does a much better job!)
+* Chapter 7 - Strings
+* Chapter 8 - Lists and Dictionaries (enumerateable things, a more indepth look than chapter 3 provides)
+* Chapter 9 - Exception Handling (Defines its own custom classes in the reading with no concept of classes)
+* Chapter 10 - File I/O
 
 There is no real lecture or commentary by the current professor, and the majority of the content is covered by the reading.
 
