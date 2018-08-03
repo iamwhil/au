@@ -4,7 +4,22 @@ I'm currently a full time developer with many years of experience, therefore, so
 I've tried to address the assignments as clearly as possible and utilize clean coding practices.
 
 <h2>CPT 200</h2>
-CPT 200 is the introduction to programmin in Python.  Overall I think the set of assignements 1 - 5 was a decent exercise.
+CPT 200 is the introduction to programmin in Python.  It covers:
+
+* Chapter 1
+* Chapter 1
+* Chapter 1
+* Chapter 1
+* Chapter 1
+* Chapter 1
+* Chapter 1
+* Chapter 1
+* Exception Handling
+* File I/O
+
+There is no real lecture or commentary by the current professor, and the majority of the content is covered by the reading.
+
+Overall I think the set of assignements 1 - 5 was a decent exercise.
 It covered things and incorporated new ideas fairly well as the reading progressed.
 However, it did omit quite a bit.
 
