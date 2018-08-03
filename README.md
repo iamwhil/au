@@ -22,6 +22,10 @@ to the reading, assignments, problem sets, and lecture notes.
 
 A great additional resource is: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
 
+Episode 4 on functions does a great job to clearly define how functions operate, formal parameters, arguments, and return statements: https://www.youtube.com/watch?v=MjbuarJ7SE0 
+
+* Bonus Pro Life Tip: You can watch the videos at 2x normal speed and still understand the teacher.
+
 Additionally the reading in the later chapters starts to indroduce concepts
 that have not been covered.  In particular defining custom classes for the
 error handling.  Without any background in 'what is a class?' this seems 
