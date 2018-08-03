@@ -4,13 +4,24 @@ Created on Thu Jul 12 21:19:56 2018
 
 @author: Whil
 
-This is the fourth assignment for the AU CPT200 course.
-It continues on the employee system.
-This time it wants us to again reformat the output of the names.
-It also wants a basic strict search on SSN.
-And update user with given SSN.
-I have omitted error checking on user input as I believe that is what 
-assignment 5 is all about.
+This is the 5th assignment - also the Final.
+Overall I think this assignment set (1 - 5 / final) was a decent exercise.
+It covered things and incorporated new ideas fairly well as the reading progressed.
+However, it did omit quite a bit.
+I think having a section on error handling would have been great.  For example
+it would have been great to have assignment 4 or 5 check to make sure that the
+input for the employee salary is actually a number, and then gracefully fail if not.
+I also understand that this course is only 5 weeks long and covers 10 chapters in 
+the book, but it seems that quite a few people's understangings of the material 
+(from what I've heard) is lacking.
+Perhaps creating lecutres or linking to Youtube videos on the content presented 
+in the chapter wouldd be a great help.  This is an online school, I do not get
+why there are no lecture videos.  Free online courses provide videos in addition
+to the reading, assignments, problem sets, and lecture notes.
+Additionally the reading in the later chapters starts to indroduce concepts
+that have not been covered.  In particular defining custom classes for the
+error handling.  Without any background in 'what is a class?' this seems 
+out of the blue and inconsiderate of what has and has not been covered.
 """
 
 def prompt_user(all_employees):
